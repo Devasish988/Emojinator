@@ -21,4 +21,6 @@ pip (v19.1.1)
 scipy (v1.1.0)
 tensorflow (v1.10.0)
 
-![](https://github.com/Devasish988/Emojinator/blob/master/GestureRecog.mp4)
+[](https://github.com/Devasish988/Emojinator/blob/master/GestureRecog.mp4)
+
+
